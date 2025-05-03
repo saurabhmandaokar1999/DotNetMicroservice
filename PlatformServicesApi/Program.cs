@@ -18,6 +18,7 @@ namespace PlatformServicesApi
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.AddDbContext<AppDbContext>(options =>
                              options.UseInMemoryDatabase("MyInMemoryDb"));
+            builder.Services.AddScoped<IPlatformRepo,PlatformRepo>();
             builder.Services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo

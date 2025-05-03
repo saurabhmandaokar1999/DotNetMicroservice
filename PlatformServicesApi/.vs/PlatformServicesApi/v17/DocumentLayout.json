@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|c:\\users\\sejal\\desktop\\dotnetmicroservice\\platformservicesapi\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EBE666-8DEE-40AB-87E1-EA118DFC2E49}|PlatformServicesApi.csproj|solutionrelative:profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wBQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:15:04.517Z",
+              "WhenOpened": "2025-05-03T13:04:11.606Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Data\\PlatformRepo.cs",
+              "RelativeDocumentMoniker": "Data\\PlatformRepo.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Data\\PlatformRepo.cs",
+              "RelativeToolTip": "Data\\PlatformRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:41:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:39:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Models\\Platform.cs",
+              "RelativeToolTip": "Models\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:12:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatformsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Profiles\\PlatformsProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\PlatformsProfile.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Profiles\\PlatformsProfile.cs",
+              "RelativeToolTip": "Profiles\\PlatformsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:46:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformReadDto.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:37:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Dtos\\PlatformCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformCreateDto.cs",
+              "ToolTip": "C:\\Users\\sejal\\Desktop\\DotNetMicroservice\\PlatformServicesApi\\Dtos\\PlatformCreateDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:37:35.134Z",
+              "EditorCaption": ""
             }
           ]
         }
