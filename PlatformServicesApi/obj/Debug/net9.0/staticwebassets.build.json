@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D+W8BeEzYbRM+mU45KpqeGnl0HQbBf+VRPaBBoZoidM=",
+  "Source": "PlatformServicesApi",
+  "BasePath": "_content/PlatformServicesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
